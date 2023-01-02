@@ -10,6 +10,7 @@ console.log(cart.items)
 
     return (
         <Card>
+            <Card.Img src={product.image}/>
             <Card.Body>
                 <Card.Title>{product.title}</Card.Title>
                 <Card.Text>${product.price}</Card.Text>
