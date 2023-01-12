@@ -4,7 +4,7 @@ Full stack CRUD application to journal about life.
 **Link to project:** 
 
 [ Fashion Bros. demo coming soon... for now here is a screenshot]
-<img width="1396" alt="Fashion Bros React" src="https://user-images.githubusercontent.com/105181695/210893589-59a68dfb-4650-47d5-aaae-188f5385389f.png">
+
 
 
 
