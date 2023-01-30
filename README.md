@@ -1,7 +1,7 @@
 # Fashion-Bros
-Full stack CRUD application to journal about life. 
+Full stack e-commerce app for buying jewelry from a jewelry store. 
 
-**Link to project:** 
+**Link to project: https://fashion-bros.onrender.com/** 
 
 [ Fashion Bros. demo coming soon... for now here is a screenshot]
 <img width="1396" alt="Fashion Bros React" src="https://user-images.githubusercontent.com/105181695/210893589-59a68dfb-4650-47d5-aaae-188f5385389f.png">
@@ -24,4 +24,4 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **Jeopardy Party:** https://github.com/coderrob22/Jeopardy-API
 
-**Task Manager App:** 
+**Task Manager App:** https://github.com/coderrob22/Task-Manager-app 
